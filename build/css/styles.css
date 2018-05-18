@@ -1,0 +1,8 @@
+table.betsummary thead tr{background: #17375D; color: #fff;}
+table.betsummary tbody tr.tfoot{font-weight: bold;}
+
+table.betsummary tbody tr{font-weight: normal;}
+
+.daterangepicker select.hourselect, .daterangepicker select.minuteselect, .daterangepicker select.secondselect, .daterangepicker select.ampmselect {
+    padding:0;
+}
